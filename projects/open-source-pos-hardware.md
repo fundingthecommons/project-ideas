@@ -1,5 +1,11 @@
 # Open Source POS Hardware
 
+> **📢 ATTRIBUTION: This project idea originated from [@timjrobinson's tweet](https://x.com/timjrobinson/status/1940331404627411261)**
+> 
+> **Original tweet source: https://x.com/timjrobinson/status/1940331404627411261**
+
+---
+
 ## Overview
 
 An open-source Point of Sale (POS) hardware solution designed to democratize payment acceptance for merchants worldwide. This project aims to create affordable, customizable, and secure payment terminals that support both traditional payment methods and cryptocurrencies, enabling small businesses and merchants in developing economies to accept digital payments without expensive proprietary systems.
